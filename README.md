@@ -12,11 +12,11 @@ between different samples. The approach is the following:
 - Calculate average ChIP-chip signal for each chromosome
 - Consider individual chrs as observations in two groups:
 	- small chrs (chr I, III, and VI)
-        - large chrs (remaining 13 chrs)
+	- large chrs (remaining 13 chrs)
 - Use a statistical test to compare the two groups
 
 
-### For command line usage run:
-``` python
+#### For command line usage run:
+```
 python chr_size_bias_in_ssDNA_chip-chip.py --help
 ```
