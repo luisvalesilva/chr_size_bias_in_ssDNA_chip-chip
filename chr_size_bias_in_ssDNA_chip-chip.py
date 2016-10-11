@@ -1,7 +1,7 @@
 """
 Screen Hochwagen lab's ssDNA ChIP-chip library for chromosome size bias effects.
 
-August 2016¶
+August 2016
 
 The lab has an extensive library of ssDNA ChIP-chip data, used for mapping DSB hotspots
 in meiosis. Not all these data have been collected (or even later examined) to detect
